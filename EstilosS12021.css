@@ -1,0 +1,381 @@
+
+
+.te{
+    position: absolute;
+    top: 38%;
+    left: 58%;
+    font-size: 55px;
+    color: black;
+    font-family: David;
+    }
+
+.tea{
+    position: absolute;
+    top: 45%;
+    left: 48%;
+    font-size: 40px;
+    color: black;
+    font-family: David;
+    }
+
+.a {
+    background-color: #476159 ;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    position: absolute;
+    left: 41%;
+    top: 58%;
+    border-radius: 10px;
+    color: white;
+     font-family: David;
+}
+
+.a:hover {
+background-color:#84C8AE;
+color: black;
+}
+
+.b {
+    background-color: #476159 ;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    position: absolute;
+    left: 54%;
+    top: 58%;
+    border-radius: 10px;
+    color: white;
+     font-family: David;
+}
+
+.b:hover {
+background-color:#84C8AE;
+color: black;
+}
+
+.c {
+    background-color: #476159;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    position: absolute;
+    left: 67%;
+    top: 58%;
+    border-radius: 10px;
+    color: white;
+     font-family: David;
+}
+
+.c:hover {
+background-color:#84C8AE;
+color: black;
+}
+
+.d {
+    background-color: #476159 ;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    position: absolute;
+    left: 80%;
+    top: 58%;
+    border-radius: 10px;
+    color: white;
+     font-family: David;
+}
+
+.d:hover {
+background-color:#84C8AE;
+color: black;
+}
+
+
+.su {
+    background-color: #30661C;
+    color: white;
+    padding: 15px 27px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 17px;
+    margin: 4px 2px;
+    cursor: pointer;
+    position: absolute;
+    left: 43%;
+    top: 40%;
+    border-radius: 40px;
+    color: black;
+    font-family: David;
+}
+.su:hover {
+background-color: #17350D;
+color: white;
+}
+
+.ba {
+    background-color: #30661C;
+    color: white;
+    padding: 15px 27px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 17px;
+    margin: 4px 2px;
+    cursor: pointer;
+    position: absolute;
+    left: 52%;
+    top: 57%;
+    border-radius: 40px;
+    color: black;
+    font-family: David;
+}
+.ba:hover {
+background-color: #17350D;
+color: white;
+}
+
+.gif {
+    position: absolute;
+    left: 12%;
+    top: 32%;
+}
+
+.per1{
+    position: absolute;
+    top: 8%;
+    left: 21%;
+    font-size: 60px;
+    color: #000000 ;
+    font-family: David;
+
+    }
+
+.per2{
+    position: absolute;
+    top: 8%;
+    left: 18%;
+    font-size: 60px;
+    color: #000000;
+    font-family: David;
+
+    }
+
+.per3{
+    position: absolute;
+    top: 8%;
+    left: 20%;
+    font-size: 60px;
+    color: #000000;
+    font-family: David;
+
+    }
+
+.per4{
+    position: absolute;
+    top: 8%;
+    left: 21%;
+    font-size: 60px;
+    color: #000000;
+    font-family: David;
+
+    }
+.inp1 {
+    background-color: #84C8AE;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    position: absolute;
+    left: 44%;
+    top: 87%;
+    border-radius: 10px;
+    color: black;
+     font-family: David;
+}
+
+.inp1:hover {
+background-color:#476159;
+color: white;
+}
+
+.inp2{
+    background-color: #84C8AE;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    position: absolute;
+    left: 44%;
+    top: 87%;
+    border-radius: 10px;
+    color: black;
+     font-family: David;
+}
+
+.inp2:hover {
+background-color:#476159;
+color: white;
+}
+
+.inp3{
+    background-color: #84C8AE;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    position: absolute;
+    left: 44%;
+    top: 87%;
+    border-radius: 10px;
+    color: black;
+     font-family: David;
+}
+
+.inp3:hover {
+background-color:#476159;
+color: white;
+}
+
+.inp4{
+    background-color: #84C8AE;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    position: absolute;
+    left: 44%;
+    top: 87%;
+    border-radius: 10px;
+    color: black;
+     font-family: David;
+}
+
+.inp4:hover {
+background-color:#476159;
+color: white;
+}
+
+.img{
+    position: absolute;
+    top: 22%;
+    left: 7%;
+    border-radius: 3%;
+}
+
+.img2{
+    position: absolute;
+    top: 2%;
+    left: 3%;
+    border-radius: 5%;
+}
+
+.table{
+    top: 50%;
+    left: 10%;
+}
+
+   .v{
+    top:3%; 
+    left:;
+
+   }
+
+.m {
+    background-color:white ;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin: 4px 2px;
+    cursor: pointer;
+    position: absolute;
+    left: 86%;
+    top: 3%;
+    border-radius: 8px;
+    color: black;
+     font-family: David;
+}
+
+.k {
+    background-color:white ;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin: 4px 2px;
+    cursor: pointer;
+    position: absolute;
+    left: 25%;
+    top: 40%;
+    border-radius: 8px;
+    color: black;
+     font-family: David;
+}
+
+
+
+
+
+
+.t{
+    top: 10%;
+    left: ;
+}
+
+.per5{
+    position: absolute;
+    top: 12%;
+    left: 55%;
+    font-size: 60px;
+    color: #000000 ;
+    font-family: David;
+
+    }
+
+    .p34{
+        top:30%; 
+        left:50%;
+    }
+
+

@@ -1,0 +1,619 @@
+body{
+background: url(h.jpeg) fixed no-repeat;
+background-size: cover;
+}
+
+@font-face{
+font-family: l1;
+src: url(secret_winterb.zip)
+}
+ .l1{
+  position: absolute;
+  font-family: secret_winterb.zip;
+  top: -5%;
+  left: 29%;
+  font-size: 75px;
+ }
+
+
+@font-face{
+font-family: l2;
+src: url(secret_wintr.zip)
+}
+
+ .div{
+  position: absolute;
+  background-image: url(verde.jpg);
+  width: 1348px;
+  height: 100px;
+  left: 1px;
+  top: 40px;
+ }
+
+ .div:hover{
+  background-image: url(azul.jpg);
+ 
+ }
+
+ .b1{
+  position: absolute;
+  color: #7EFFAF  ;
+       top: 23%;
+      left: 23%;
+        font-family: secret_winter.zip;
+  background: transparent;
+  border: none;
+      color: black;
+      padding: 10px 22px;
+      text-align: center;
+      display: inline-block;
+      font-size: 24px;
+      margin: 2px 2px;
+      -webkit-transition-duration: 0.4s;
+      transition-duration: 0.4s;
+      cursor: pointer;
+      text-decoration: none;
+      text-transform: uppercase;
+      background-color: white;
+      border: 2px solid #7EFFAF  ;
+ }
+
+ .b1:hover{
+       background-color: #7EFFAF  ;
+      font color: white;
+       padding: 16px 28px;
+       border-radius: 15px;
+
+ }
+
+ .b2{
+  position: absolute;
+  color: #7EFFAF ;
+       top: 23%;
+      left: 41%;
+        font-family: secret_winter.zip;
+  background: transparent;
+  border: none;
+      color: black;
+      padding: 10px 22px;
+      text-align: center;
+      display: inline-block;
+      font-size: 24px;
+      margin: 2px 2px;
+      -webkit-transition-duration: 0.4s;
+      transition-duration: 0.4s;
+      cursor: pointer;
+      text-decoration: none;
+      text-transform: uppercase;
+      background-color: white;
+      border: 2px solid #7EFFAF ;
+ }
+
+ .b2:hover{
+       background-color: #7EFFAF ;
+      font color: white;
+       padding: 16px 28px;
+       border-radius: 15px;
+ }
+
+ .b3{
+  position: absolute;
+  color: #7EFFAF ;
+       top: 23%;
+      left: 65%;
+        font-family: secret_winter.zip;
+  background: transparent;
+  border: none;
+      color: black;
+      padding: 10px 22px;
+      text-align: center;
+      display: inline-block;
+      font-size: 24px;
+      margin: 2px 2px;
+      -webkit-transition-duration: 0.4s;
+      transition-duration: 0.3s;
+      cursor: pointer;
+      text-decoration: none;
+      text-transform: uppercase;
+      background-color: white;
+      border: 2px solid #7EFFAF ;
+ }
+
+ .b3:hover{
+       background-color: #7EFFAF ;
+      font color: white;
+       padding: 16px 28px;
+       border-radius: 15px;
+ }
+
+
+ .b4{
+  position: absolute;
+  color: #7EFFAF ;
+       top: 240%;
+      left: 47%;
+        font-family:secret_winter.zip;
+  background: transparent;
+  border: none;
+      color: black;
+      padding: 10px 22px;
+      text-align: center;
+      display: inline-block;
+      font-size: 24px;
+      margin: 2px 2px;
+      -webkit-transition-duration: 0.4s;
+      transition-duration: 0.3s;
+      cursor: pointer;
+      text-decoration: none;
+      text-transform: uppercase;
+      background-color: white;
+      border: 2px solid #7EFFAF ;
+}
+.b4:hover{
+       background-color: #7EFFAF ;
+      font color: white;
+       padding: 16px 28px;
+       border-radius: 15px;
+ }
+
+.b5{
+  position: absolute;
+  color: #7EFFAF ;
+       top: 225%;
+      left: 22%;
+        font-family: secret_winter.zip;
+  background: transparent;
+  border: none;
+      color: black;
+      padding: 6px 15px;
+      text-align: center;
+      display: inline-block;
+      font-size: 24px;
+      margin: 2px 2px;
+      -webkit-transition-duration: 0.4s;
+      transition-duration: 0.3s;
+      cursor: pointer;
+      text-decoration: none;
+      text-transform: uppercase;
+      background-color: white;
+      border: 2px solid #7EFFAF ;
+    }
+
+    .con{
+      position: absolute;
+       top:130px ;
+       left:0px;
+       display: none;
+    }
+
+.b5:hover .con{
+       display: block;
+ }
+
+ .b6{
+  position: absolute;
+  color: #7EFFAF ;
+       top: 225%;
+      left: 35%;
+        font-family: secret_winter.zip;
+  background: transparent;
+  border: none;
+      color: black;
+      padding: 6px 15px;
+      text-align: center;
+      display: inline-block;
+      font-size: 24px;
+      margin: 2px 2px;
+      -webkit-transition-duration: 0.4s;
+      transition-duration: 0.3s;
+      cursor: pointer;
+      text-decoration: none;
+      text-transform: uppercase;
+      background-color: white;
+      border: 2px solid #7EFFAF ;
+    }
+
+    .con2{
+      position: absolute;
+       top:130px ;
+       left:0px;
+       display: none;
+    }
+
+.b6:hover .con2{
+       display: block;
+ }
+
+.b7{
+  position: absolute;
+  color: #7EFFAF ;
+       top: 225%;
+      left: 52%;
+        font-family: secret_winter.zip;
+  background: transparent;
+  border: none;
+      color: black;
+      padding: 6px 15px;
+      text-align: center;
+      display: inline-block;
+      font-size: 24px;
+      margin: 2px 2px;
+      -webkit-transition-duration: 0.4s;
+      transition-duration: 0.3s;
+      cursor: pointer;
+      text-decoration: none;
+      text-transform: uppercase;
+      background-color: white;
+      border: 2px solid #7EFFAF ;
+    }
+
+    .con3{
+      position: absolute;
+       top:130px ;
+       left:0px;
+       display: none;
+    }
+
+.b7:hover .con3{
+       display: block;
+ }
+
+.b8{
+  position: absolute;
+  color: #7EFFAF ;
+       top: 225%;
+      left: 70%;
+        font-family:secret_winter.zip;
+  background: transparent;
+  border: none;
+      color: black;
+      padding: 6px 15px;
+      text-align: center;
+      display: inline-block;
+      font-size: 24px;
+      margin: 2px 2px;
+      -webkit-transition-duration: 0.4s;
+      transition-duration: 0.3s;
+      cursor: pointer;
+      text-decoration: none;
+      text-transform: uppercase;
+      background-color: white;
+      border: 2px solid #7EFFAF ;
+    }
+
+    .con4{
+      position: absolute;
+       top:130px ;
+       left:2px;
+       height: 200px;
+       width:200px;
+       display: none;
+    }
+
+.b4:hover .con4{
+       display: block;
+ }
+
+
+
+
+
+
+
+
+.div2{
+position: absolute;
+top: 50%;
+left: 8%;
+width: 43%;
+height: 60%;
+background-color: #7EFFAF  ;
+}
+
+.t1{
+position: absolute;
+top: -17%;
+left: 16%;
+font-size: 62px;
+font-family: secret_winter.zip;
+}
+.t1:hover{
+font-size: 50px;
+top: -13%;
+left: 20%;
+
+}
+
+.linea{
+position: absolute;
+top: 18%;
+left: 0%;
+width: 580px;
+}
+
+.linea2{
+position: absolute;
+top: 19%;
+left: 0%;
+width: 580px;
+}
+
+.d{
+position: absolute;
+font-family: arial;
+top: 34%;
+left: 4%;
+font size: 50px;
+}
+
+
+
+.logo{
+position: absolute;
+width: 580px;
+height: 374px;
+left: 580px;
+top: 1px;
+}
+
+.logo2{
+position: absolute;
+width: 223px;
+height: 223px;
+left: 747px;
+top: 84px;
+
+}
+.logo2:hover{
+       
+      font color: white;
+       padding: 20px 32px;
+     
+ }
+
+
+.grande{
+position: absolute;
+top: 54%;
+width: 4
+}
+
+.div3{
+position: absolute;
+top: 112%;
+left: 51%;
+width: 43%;
+height: 60%;
+background-color: #7EFFAF
+
+}
+
+.t4{
+position: absolute;
+top: -15%;
+left: 9%;
+font-size: 58px;
+font-family: secret_winter.zip;
+}
+.t4:hover{
+font-size: 50px;
+top: -13%;
+left: 15%;
+}
+
+.e{
+position: absolute;
+font-family: arial;
+top: 23%;
+left: 8%;
+font size: 50px;
+}
+
+.logo3{
+position: absolute;
+width: 580px;
+height: 376px;
+left: -580px;
+top: -1px;
+
+}
+
+.div4{
+ position: absolute;
+top: 174%;
+left: 8%;
+width: 86%;
+height: 60%;
+background-color: #7EFFAF
+
+}
+.t5{
+  position: absolute;
+top: -15%;
+left: 40%;
+font-size: 58px;
+font-family: secret_winter.zip;
+}
+.t5:hover{
+font-size: 50px;
+top: -15%;
+left: 40%;
+}
+
+.linea3{
+  position: absolute;
+top: 19%;
+left: 0%;
+width: 1159px;
+}
+
+
+.po{
+    background-color:white ;
+    color: white;
+    padding: 10px 28px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin: 4px 2px;
+    cursor: pointer;
+    position: absolute;
+    left: 87%;
+    top:2%;
+    border-radius: 8px;
+    color: black;
+     font-family: David;
+}
+
+
+
+.tabl{
+position: absolute;
+  color: #7EFFAF ;
+       top: 225%;
+      left: 20%;
+        font-family: secret_winter.zip;
+  background: transparent;
+  border: none;
+      color: black;
+      padding:20px 70px;
+      text-align: center;
+      display: inline-block;
+      font-size: 24px;
+      margin: 4px 4px;
+      -webkit-transition-duration: 0.4s;
+      transition-duration: 0.3s;
+      cursor: pointer;
+      text-decoration: none;
+      text-transform: uppercase;
+      background-color: white;
+      border: 2px solid #7EFFAF ;
+    }
+
+.contabla{
+position: absolute;
+top: -225px;
+width: 200px;
+height:180px:;
+left: -27px;
+font-family: secret_winter.zip;
+font-size: 14px;
+display: none;
+}
+.tabl:hover .contabla{
+display: block;
+}
+
+.tabl2{
+position: absolute;
+  color: #7EFFAF ;
+       top: 225%;
+      left: 35%;
+        font-family: secret_winter.zip;
+  background: transparent;
+  border: none;
+      color: black;
+      padding:20px 74px;
+      text-align: center;
+      display: inline-block;
+      font-size: 24px;
+      margin: 4px 4px;
+      -webkit-transition-duration: 0.4s;
+      transition-duration: 0.3s;
+      cursor: pointer;
+      text-decoration: none;
+      text-transform: uppercase;
+      background-color: white;
+      border: 2px solid #7EFFAF ;
+    }
+
+.contabla2{
+position: absolute;
+top: -185px;
+width: 205px;
+height:190px:;
+left: -28px;
+font-family: secret_winter.zip;
+font-size: 15px;
+display: none;
+}
+.tabl2:hover .contabla2{
+display: block;
+}
+
+
+
+.tabl3{
+position: absolute;
+  color: #7EFFAF ;
+       top: 225%;
+      left: 52%;
+        font-family:secret_winter.zip;
+  background: transparent;
+  border: none;
+      color: black;
+      padding:20px 80px;
+      text-align: center;
+      display: inline-block;
+      font-size: 24px;
+      margin: 4px 4px;
+      -webkit-transition-duration: 0.4s;
+      transition-duration: 0.3s;
+      cursor: pointer;
+      text-decoration: none;
+      text-transform: uppercase;
+      background-color: white;
+      border: 2px solid #7EFFAF ;
+    }
+
+.contabla3{
+position: absolute;
+top: -225px;
+width: 245px;
+height:170px:;
+left: -43px;
+font-family: secret_winter.zip;
+font-size: 14px;
+display: none;
+}
+.tabl3:hover .contabla3{
+display: block;
+}
+
+.tabl4{
+position: absolute;
+  color: #7EFFAF ;
+       top: 225%;
+      left: 70%;
+        font-family: secret_winter.zip;
+  background: transparent;
+  border: none;
+      color: black;
+      padding:20px 79px;
+      text-align: center;
+      display: inline-block;
+      font-size: 24px;
+      margin: 4px 4px;
+      -webkit-transition-duration: 0.4s;
+      transition-duration: 0.3s;
+      cursor: pointer;
+      text-decoration: none;
+      text-transform: uppercase;
+      background-color: white;
+      border: 2px solid #7EFFAF ;
+    }
+
+.contabla4{
+position: absolute;
+top: -225px;
+width: 245px;
+height:170px:;
+left: -43px;
+font-family: secret_winter.zip;
+font-size: 14px;
+display: none;
+}
+.tabl4:hover .contabla4{
+display: block;
+}
